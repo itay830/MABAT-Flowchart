@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T21:39:06.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KeBUOEwbxf89o_ME_zXX" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T21:40:14.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wOsd5RUPwNiJFYoAawxC" version="24.4.4" type="github">
   <diagram name="Page-1" id="j-7ZPfe5WQysFXB74jFQ">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,16 +99,30 @@
         <mxCell id="4Tplo5pRTbdHGuXoDYvk-31" value="About" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4Tplo5pRTbdHGuXoDYvk-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Tplo5pRTbdHGuXoDYvk-36">
+        <mxCell id="4Tplo5pRTbdHGuXoDYvk-36" value="Games Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Tplo5pRTbdHGuXoDYvk-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Tplo5pRTbdHGuXoDYvk-37" target="4Tplo5pRTbdHGuXoDYvk-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Tplo5pRTbdHGuXoDYvk-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Tplo5pRTbdHGuXoDYvk-37" target="4Tplo5pRTbdHGuXoDYvk-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="710" as="targetPoint" />
+            <mxPoint x="400" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Tplo5pRTbdHGuXoDYvk-36" value="Games Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="4Tplo5pRTbdHGuXoDYvk-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4Tplo5pRTbdHGuXoDYvk-37" target="4Tplo5pRTbdHGuXoDYvk-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="850" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4Tplo5pRTbdHGuXoDYvk-37" value="Home Page" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="552" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4Tplo5pRTbdHGuXoDYvk-49" value="Simulations Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Tplo5pRTbdHGuXoDYvk-51" value="Play Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
